@@ -11,7 +11,7 @@
  Source ROS2 setup files.
 </h4>
 
-<p>
+<p style="color:blue">
 source /opt/ros/humble/setup.bash
 </p>
 
@@ -19,6 +19,6 @@ source /opt/ros/humble/setup.bash
  Execute nodejs code.
 </h4>
 
-<p>
+<p style="color:blue">
 node index.js
 </p>
