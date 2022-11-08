@@ -1,0 +1,19 @@
+{
+  "name": "rpi_gpio",
+  "version": "0.0.0",
+  "description": "TODO: Package description",
+  "keywords": [],
+  "author": "",
+  "license": "TODO: License declaration",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "generate-ros-messages": "node_modules/.bin/generate-ros-messages"
+  },
+  "dependencies": {
+    "iotagent-node-lib": "^2.24.0",
+    "rclnodejs": "^0.21.3",
+    "request": "^2.88.2"
+  }
+}
