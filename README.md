@@ -29,9 +29,9 @@ node index.js
  This agent uses the <a href="https://github.com/RobotWebTools/rclnodejs">rclnodejs library</a> combined with the <a href="https://github.com/telefonicaid/iotagent-node-lib"> Fiware iotagent-node-lib</a>. The agent creates the following
 </h4>
  <ol> 
-  <li>Subscriptions and Publishers</li>
+  <li>Subscriptions and Publishers for ROS Machines</li>
   <li>ROS2 Client</li>
-  <li>GPIO Action Client</li>
+  <li>GPIO Action Client for Legacy CNC Machines</li>
  </ol>
  
  <h4>
