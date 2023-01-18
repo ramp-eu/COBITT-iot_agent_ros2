@@ -51,7 +51,7 @@ You can send your commands and be redirected to your ROS2 device with the rclnod
 </p>
 
 <h4>
- GPIO Action Client
+ GPIO Action Client for Legacy CNC Machines
 </h4>
 
 <p>
